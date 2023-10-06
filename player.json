@@ -1,0 +1,18 @@
+{
+    "player": {
+        "matches": [
+            {
+                "id": 1,
+                "result": true
+            },
+            {
+                "id": 2,
+                "result": false
+            },
+            {
+                "id": 3,
+                "result": true
+            }
+        ]
+    }
+}
